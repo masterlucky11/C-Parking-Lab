@@ -1,0 +1,57 @@
+Welcome to Parking Permit Services!
+
+Enter whether you are an employee, student, or vendor
+
+EMPLOYEE: ENTER '1'
+STUDENT: ENTER '2'
+VENDOR: ENTER '3'
+1
+Please enter your name: Dev Patel
+Please enter your address: 155 Vindicator Rd
+Please enter your email: devpatel1442@gmail.com
+Please enter your department by referring to the following directions.
+
+EDUCATION: ENTER '1'
+MANAGEMENT: ENTER '2'
+CLASSIFIED: ENTER '3'
+2
+Please enter your ID #: 123456789
+Enter whether this permit is for a car, motorcycle, or truck
+
+CAR: ENTER '1'
+MOTORCYCLE: ENTER '2'
+TRUCK: ENTER '3'
+1
+Please enter your car's manufacturer: Honda 
+Please enter your car model: Civic
+Please enter your car's model year: 2003
+Please enter your plate number: 3456123
+Please enter your car's color: Silver
+Please enter the type of permit you want by referring to the following directions.
+
+MONTHLY: ENTER '1'
+SEMESTERLY: ENTER '2'
+ANNUALLY: ENTER '3'
+1
+Complete Invoice
+
+Personal Information
+   Name: Dev Patel
+   Address: 155 Vindicator Rd
+   Email: devpatel1442@gmail.com
+   Department: Management
+   ID Number: 123456789
+
+Vehicle Information
+   Make: Honda
+   Model: Civic
+   Model Year: 2003
+   Plate Number: 3456123
+   Color: Silver
+
+Permit Information
+   Permit Price: $12.00
+   Discount: $0.00
+   Service Charge: $5.00
+
+Total: $17.00

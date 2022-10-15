@@ -1,0 +1,69 @@
+Welcome to Parking Permit Services!
+
+Enter whether you are an employee, student, or vendor
+
+EMPLOYEE: ENTER '1'
+STUDENT: ENTER '2'
+VENDOR: ENTER '3'
+2
+Please enter your name: Marshall Douglas
+Please enter your address: 432 Lamp Shade Ave.
+Please enter your email: mdoug@yahoo.com
+Please enter your CUID: C123456789
+Please enter your educational year by referring to the following directions.
+
+FRESHMAN: ENTER '1'
+SOPHOMORE: ENTER '2'
+JUNIOR: ENTER '3'
+SENIOR: ENTER '4'
+2
+Enter whether this permit is for a car, motorcycle, or truck
+
+CAR: ENTER '1'
+MOTORCYCLE: ENTER '2'
+TRUCK: ENTER '3'
+2
+Please enter your bike's manufacturer: Suzuki
+Please enter your bike model: Hydra
+Please enter your bike's model year: 2021
+Please enter your bike's estimated engine power in HP: 200
+Please enter the type of bike it is by referring to the following directions.
+
+MOTORCYCLE: ENTER '1'
+MOPED: ENTER '2'
+SCOOTER: ENTER '3'
+UNDERBONE: ENTER '4'
+MINIATURE: ENTER '5'
+ELECTRIC: ENTER '6'
+POCKET: ENTER '7'
+THREE-WHEELED: ENTER '8'
+OTHER: ENTER '9'
+1
+Please enter the type of permit you want by referring to the following directions.
+
+MONTHLY: ENTER '1'
+SEMESTERLY: ENTER '2'
+ANNUALLY: ENTER '3'
+2
+Complete Invoice
+
+Personal Information
+   Name: Marshall Douglas
+   Address: 432 Lamp Shade Ave.
+   Email: mdoug@yahoo.com
+   CUID: C123456789
+   Student Year: Sophomore
+
+Vehicle Information
+   Make: Suzuki
+   Model: Hydra
+   Model Year: 2021
+   Engine Power: 200
+   Motorcycle Type: Motorcycle
+
+Permit Information
+   Permit Price: $54.06
+   Discount: $10.81
+   Service Charge: $5.00
+
+Total: $48.25

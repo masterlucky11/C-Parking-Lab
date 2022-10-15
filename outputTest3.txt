@@ -1,0 +1,52 @@
+Welcome to Parking Permit Services!
+
+Enter whether you are an employee, student, or vendor
+
+EMPLOYEE: ENTER '1'
+STUDENT: ENTER '2'
+VENDOR: ENTER '3'
+3
+Please enter your name: Lebron James
+Please enter your address: 1450 Lakers Blvd
+Please enter your email: iamtheGOAT@gmail.com
+Please enter the types of goods being delivered: NBA Championships
+Please enter your company's name: Los Angeles Lakers
+Enter whether this permit is for a car, motorcycle, or truck
+
+CAR: ENTER '1'
+MOTORCYCLE: ENTER '2'
+TRUCK: ENTER '3'
+3
+Please enter your truck's manufacturer: Peterbilt
+Please enter your truck model: Lakers
+Please enter your truck's model year: 2022
+Please enter the estimated weight of the truck: 60000
+Please enter the estimated weight including the load: 75000
+Please enter the type of permit you want by referring to the following directions.
+
+MONTHLY: ENTER '1'
+SEMESTERLY: ENTER '2'
+ANNUALLY: ENTER '3'
+3
+Complete Invoice
+
+Personal Information
+   Name: Lebron James
+   Address: 1450 Lakers Blvd
+   Email: iamtheGOAT@gmail.com
+   Type of Goods: NBA Championships
+   Company Name: Los Angeles Lakers
+
+Vehicle Information
+   Make: Peterbilt
+   Model: Lakers
+   Model Year: 2022
+   Truck Weight: 60000
+   Truck Weight With Load: 75000
+
+Permit Information
+   Permit Price: $165.00
+   Discount: $0.00
+   Service Charge: $5.00
+
+Total: $170.00
